@@ -31,6 +31,7 @@ div{
     background-image: linear-gradient(to top right, #8507e1, #3dc8d5);
     font-family: 'Gilda Display', serif;
     color: white;
+    border-radius: 10px;
 }
 
 div:hover{
@@ -88,6 +89,8 @@ section p{
     margin-left: 200px;
     margin-bottom: 400px;
     font-size: 1.5em;
+    font-family: 'Maven Pro', sans-serif;
+
 }
 
 article{
